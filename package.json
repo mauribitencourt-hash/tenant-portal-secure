@@ -79,7 +79,7 @@
 		"@trivago/prettier-plugin-sort-imports": "^6.0.2",
 		"@types/node": "^25.2.3",
 		"@types/pg": "^8.16.0",
-		"@types/prismjs": "^1.26.5",
+		"@types/prismjs": "^1.26.6",
 		"@types/react": "^19.2.13",
 		"@types/react-dom": "^19.2.3",
 		"eslint": "^9.39.2",
